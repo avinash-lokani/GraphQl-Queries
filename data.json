@@ -1,0 +1,77 @@
+{
+    "tweet" : [{
+        "id" : "tweet_1",
+        "body" : "Good News",
+        "date" : "2014-01-01T23:28:56.782Z",
+        "author" : {
+            "id" : "user_1",
+            "username" : "am70",
+            "first_name" : "avinash",
+            "last_name" : "lokani",
+            "name" : "Avinash Lokani",
+            "avatar_url" : "https://picsum.photos/200/300"
+        },
+        "Stats":{
+            "views" : 1905,
+            "likes": 12,
+            "retweets" : 69
+        }
+        
+    },
+    {
+        "id" : "tweet_2",
+        "body" : "Good News",
+        "date" : "2014-01-01T23:28:56.782Z",
+        "author" : {
+            "id" : "user_2",
+            "username" : "am70",
+            "first_name" : "avinash",
+            "last_name" : "lokani",
+            "name" : "Avinash Lokani",
+            "avatar_url" : "https://picsum.photos/200/300"
+        },
+        "Stats":{
+            "views" : 19050,
+            "likes": 12,
+            "retweets" : 69
+        }
+    },
+    {
+        "id" : "tweet_3",
+        "body" : "Good News",
+        "date" : "2014-01-01T23:28:56.782Z",
+        "author" : {
+            "id" : "user_3",
+            "username" : "am70",
+            "first_name" : "avinash",
+            "last_name" : "lokani",
+            "name" : "Avinash Lokani",
+            "avatar_url" : "https://picsum.photos/200/300"
+        },
+        "Stats":{
+            "views" : 19005,
+            "likes": 12,
+            "retweets" : 69
+        }
+    },
+    {
+        "id" : "tweet_4",
+        "body" : "Good News",
+        "date" : "2014-01-01T23:28:56.782Z",
+        "author" : {
+            "id" : "user_4",
+            "username" : "am70",
+            "first_name" : "avinash",
+            "last_name" : "lokani",
+            "name" : "Avinash Lokani",
+            "avatar_url" : "https://picsum.photos/200/300"
+        },
+        "Stats":{
+            "views" : 19050,
+            "likes": 12,
+            "retweets" : 69
+        }
+    }
+    
+]
+}
